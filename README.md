@@ -46,8 +46,8 @@ I'm a passionate **Full Stack Developer** with a focus on **Backend Development*
 
 ### 🛠️ Current Projects:
 
-- [**cnotes.in**](https://cnotes.in): A platform to [A customer Managemet system catered towards cable operators].
-- **Dear**: [A personalised voice assistant that mimicks the voice of a family member to simulate memory for Alzhimers patients].
+- [**cnotes.in**](https://cnotes.in): A platform to A customer Managemet system catered towards cable operators.
+- **Dear**: A personalised voice assistant that mimicks the voice of a family member to simulate memory for Alzhimers patients.
 
 ---
 
