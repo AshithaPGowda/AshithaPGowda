@@ -51,12 +51,6 @@ I'm a passionate **Full Stack Developer** with a focus on **Backend Development*
 
 ---
 
-### 📈 Stats & Achievements:
-
-![Ashitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashithagowda&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
 ### 🌍 Let's Connect:
 - LinkedIn: [linkedin.com/in/ashitha-p-gowda-065b85179/](https://linkedin.com/in/ashitha-p-gowda-065b85179/)
 - Email: [ashithapgowdaapg@gmail.com](mailto:ashithapgowdaapg@gmail.com)
